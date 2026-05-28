@@ -1,59 +1,39 @@
-# CODSOFT Java Internship
+# CodSoft Java Internship
 
-This repository contains all the tasks completed during my Java Development Internship at CodSoft.
+5 Java applications built during my virtual internship at CodSoft, 
+demonstrating Core Java, OOP, and Java Swing GUI development.
 
----
+## Projects
 
-## 📌 Tasks Completed
+**Task 1 — Number Guess Game**  
+Random number generator with user input, hint logic (too high/too low), 
+and loop-based retry. Demonstrates control flow and basic I/O.
 
-### 🔹 Task 1: Number Guess Game
-- Generates a random number
-- User tries to guess the number
-- Provides hints (too high / too low)
+**Task 2 — Student Grade Calculator**  
+Takes subject marks as input, calculates total, average, and grade. 
+Demonstrates arrays, arithmetic logic, and conditional statements.
 
----
+**Task 3 — ATM Interface**  
+Simulates deposit, withdrawal, and balance check operations. 
+Demonstrates OOP principles, constructor usage, and class design.
 
-### 🔹 Task 2: Student Grade Calculator
-- Takes marks of subjects as input
-- Calculates total and average
-- Displays grade based on percentage
+**Task 4 — Currency Converter (GUI)**  
+Converts INR to USD with a graphical interface built using Java Swing. 
+Demonstrates event handling, JFrame, and user input validation.
 
----
+**Task 5 — Student Management System (GUI)**  
+Stores and displays student details using Java Swing. 
+Demonstrates GUI form design, data handling, and event-driven programming.
 
-### 🔹 Task 3: ATM Interface
-- Simulates ATM operations
-- Includes deposit, withdraw, and balance check
-- Uses object-oriented programming concepts
+## How to Run
 
----
+1. Clone the repo: `git clone https://github.com/Shre-ya01/codsoft-java-internship`
+2. Open any `.java` file in VS Code or IntelliJ IDEA
+3. Compile: `javac FileName.java`
+4. Run: `java FileName`
 
-### 🔹 Task 4: Currency Converter (GUI)
-- Converts INR to USD
-- Built using Java Swing
-- User-friendly graphical interface
+## Tech Stack
+Java · Java Swing · OOP · Core Java
 
----
-
-### 🔹 Task 5: Student Management System (GUI)
-- Takes student details as input
-- Displays student information
-- Built using Java Swing
-
----
-
-## 🛠 Technologies Used
-- Java
-- Java Swing (GUI)
-- OOP Concepts
-
----
-
-## 🎯 Outcome
-- Improved Java programming skills
-- Learned GUI development using Swing
-- Gained hands-on project experience
-
----
-
-## 👩‍💻 Author
-Shreya R
+## Author
+Shreya R — [LinkedIn](https://www.linkedin.com/in/shreya-r-7548a8298)
